@@ -1,0 +1,19 @@
+这是一款即时通讯源码，类似QQ，陌陌之类，功能有查询用户发表的心情状态，可以收索用户，添加用户到通讯录，可以与用户进行通讯。用户可以设置头像上传图片，各种用户信息，也可以查看别人的用户信息。未读会话提醒等等，算是一个完整的聊工具。还可以知道对方是否已读我们的信息。UI设计很好，布局代码都很值得我们学习，一些布局可以直接拿到我们的项目中使用。代码分层比较多这样每层的代码也比较容易了解，源码中注释很多，不用担心会看不明白。（源码采用GBK编码）。javaapk.com之前也介绍过很多类似的项目，感兴趣的可以在javaapk.com首页搜索一下
+                ╔═══════════════╗
+                ║       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com    ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║JavaApk声明：                                             ║
+  ║   1) 程序如果跑不起来需要自调，javaapk做船但不帮您扬帆。 ║
+  ║   2) 免费例子大全http://www.javaapk.com/demo不定期更新。 ║
+  ║   3) 如有版权争议欢迎随时联系javaapk。                   ║
+  ║   4) 源码仅限学习交流，切勿移作他用。                    ║
+  ║   5) 转载请保留本源码说明，赠人玫瑰，手留余香。          ║
+　║                                                          ║
+  ║           JavaApk —— 安卓源码服务专家                  ║
+  ║           联系方式 :QQ18805870  javaapk@qq.com           ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    安卓源码专业站 http://www.JavaApk.com     ╠══╝
+        ╚═══════════════════════╝

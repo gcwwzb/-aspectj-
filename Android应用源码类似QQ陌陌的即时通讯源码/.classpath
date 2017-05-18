@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="zaina-master/gen"/>
+	<classpathentry kind="src" path="zaina-master/src"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/android-support-v4.jar"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/Baidu-Frontia-Android-2.0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/baidumapapi_v2_1_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/core.jar"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/easemobchat_2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/library.jar"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/locSDK_3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="zaina-master/libs/universal-image-loader-1.9.2.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/adt-bundle-windows-x86-20130917/sdk/platforms/android-11/android.jar">
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
